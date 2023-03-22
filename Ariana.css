@@ -1,0 +1,50 @@
+body {
+    background-color: #ffffff;
+    color: rgb(26, 23, 23);
+}
+
+h1 {
+    font-size: 50;
+    text-align: center;
+
+}
+
+h3 {
+    text-align: center;
+    font-family: cursive;
+}
+
+img {
+        height: 500px;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    background: red;
+    transition: width 3s;
+    transition-delay: 1s;
+}
+
+#p1 {
+    color: rgb(238, 17, 17)
+}
+
+#p2 {
+    color: rgb(40, 179, 63);
+}
+
+#p3 {
+    color: rgb(117, 223, 12);
+    font-family: cursive;
+}
+
+.segundo {
+    color: aqua;
+}
+
+.terceiro {
+    color: indigo;
+    font-family: cursive;
+}
+.center{
+    text-align: center;
+}
